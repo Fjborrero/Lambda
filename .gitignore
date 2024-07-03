@@ -1,0 +1,38 @@
+# Archivos de Byte-Compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de entorno virtual
+venv/
+*.venv
+env/
+ENV/
+.env
+
+# Archivos de Pytest
+.pytest_cache/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de log
+logs
+*.log
+
+# Archivos de base de datos
+*.sqlite
+
+# Archivos de distribución
+dist/
+build/
+*.egg-info/
+*.egg
+*.pyc
+*.pyo
+*.pyd
+.Python
